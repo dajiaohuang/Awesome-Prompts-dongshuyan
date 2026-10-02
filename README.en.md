@@ -95,7 +95,7 @@ A personal repo for collecting and organizing useful prompts: both ones I wrote 
 ## Directory Structure
 
 ```
-prompts/
+.
 ├── 实用工具/     # Daily-use prompts (health, academic, Q&A, etc.)
 │   ├── 提示词增强prompt/  # Force AI to search/verify before answering
 │   └── 项目优化与施工/    # Three-step project optimization flow
