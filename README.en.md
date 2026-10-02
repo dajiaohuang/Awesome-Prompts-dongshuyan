@@ -68,7 +68,7 @@ cd Awesome-Prompts
 
 In this mode:
 
-- Root-level `*.txt` / `*.md` prompt files are directly usable.
+- Prompt files inside the top-level category directories are directly usable.
 - Folders under `OpenclawAgents/` and `Skills/Openclaw/` are just “placeholders”; they won’t take much space until you later run `git submodule update --init --recursive` (see Case 2).
 
 #### If you accidentally deleted a submodule directory and want to restore it

@@ -67,7 +67,7 @@ cd Awesome-Prompts
 
 此时：
 
-- 根目录下的各种 `*.txt` / `*.md` Prompt 文件可以直接使用；
+- 各分类目录下的 `*.txt` / `*.md` Prompt 文件可以直接使用；
 - `OpenclawAgents/` 与 `Skills/Openclaw/` 里的子目录只是“占位符”，不会占用太多空间，等需要时再按“情况二”执行 `git submodule update --init --recursive` 即可。
 
 ---
