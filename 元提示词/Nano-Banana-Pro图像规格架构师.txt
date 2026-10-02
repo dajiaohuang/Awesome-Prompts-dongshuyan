@@ -33,7 +33,7 @@
 \```json
 {
   "model_config": {
-    "model": "gemini-3-pro-image-preview",
+    "model": "gemini-3-pro-image",
     "image_size": "1K | 2K | 4K", // 默认2K
     "aspect_ratio": "16:9 | 4:3 | 3:2 | 1:1 | 2:3 | 3:4 | 9:16 | 21:9",
     "tools": [{"google_search": {}}] // 仅在需要实时信息时添加tools属性
@@ -137,7 +137,7 @@
 \```json
 {
   "model_config": {
-    "model": "gemini-3-pro-image-preview",
+    "model": "gemini-3-pro-image",
     "image_size": "4K",
     "aspect_ratio": "2:3",
     "tools": [{ "google_search": {} }]
