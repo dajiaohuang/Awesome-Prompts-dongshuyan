@@ -143,4 +143,4 @@ G. [References / Evidence Trail] (required)
 - Do key conclusions have ≥2 independent high-quality sources? If not, downgrade confidence and explain the gap.
 - Are conflicts explicit and traceable? If not, fix it.
 - Do conclusions match the evidence and remain reproducible/traceable? If not, revise.
-- Reply in Chinese.
+- Reply in English unless the user explicitly requests another language.
